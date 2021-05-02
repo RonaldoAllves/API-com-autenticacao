@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kfnZNziC1LijyMQTCs30XTQA7LCw8oFcJONHQh8QuIxpxWiWHwsFepGecQCQPvJ7oLMbBrnAO+GaakugRJbvcg==",
+  "dgSpecHash": "qMZPXt9eQtxAHkWq+D2jJudTinf/mhg2ZmQTq7TM3LO0qEfo8xlPO6LFgZbvPxQul0zNa3WTcLH1iLOk8nnxhQ==",
   "success": true,
-  "projectFilePath": "/Users/ronaldoalvesdebritopereira/Desktop/C#/TesteAutNet5/TesteAutNet5/TesteAutNet5.csproj",
+  "projectFilePath": "/Users/ronaldoalvesdebritopereira/Desktop/C#/Git/API/TesteAutNet5/TesteAutNet5.csproj",
   "expectedPackageFiles": [
     "/Users/ronaldoalvesdebritopereira/.nuget/packages/microsoft.aspnetcore.authentication/2.2.0/microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "/Users/ronaldoalvesdebritopereira/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

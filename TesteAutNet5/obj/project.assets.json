@@ -1725,11 +1725,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ronaldoalvesdebritopereira/Desktop/C#/TesteAutNet5/TesteAutNet5/TesteAutNet5.csproj",
+      "projectUniqueName": "/Users/ronaldoalvesdebritopereira/Desktop/C#/Git/API/TesteAutNet5/TesteAutNet5.csproj",
       "projectName": "TesteAutNet5",
-      "projectPath": "/Users/ronaldoalvesdebritopereira/Desktop/C#/TesteAutNet5/TesteAutNet5/TesteAutNet5.csproj",
+      "projectPath": "/Users/ronaldoalvesdebritopereira/Desktop/C#/Git/API/TesteAutNet5/TesteAutNet5.csproj",
       "packagesPath": "/Users/ronaldoalvesdebritopereira/.nuget/packages/",
-      "outputPath": "/Users/ronaldoalvesdebritopereira/Desktop/C#/TesteAutNet5/TesteAutNet5/obj/",
+      "outputPath": "/Users/ronaldoalvesdebritopereira/Desktop/C#/Git/API/TesteAutNet5/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ronaldoalvesdebritopereira/.config/NuGet/NuGet.Config"

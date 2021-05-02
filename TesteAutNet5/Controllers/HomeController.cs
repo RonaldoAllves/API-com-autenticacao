@@ -13,9 +13,6 @@ namespace TesteAutNet5.Controllers
     public class HomeController : ControllerBase
     {
 
-        /*###########################################################*/
-        /*###########################################################*/
-
         [HttpPost]
         [Route("criarToken")]
         [AllowAnonymous]
