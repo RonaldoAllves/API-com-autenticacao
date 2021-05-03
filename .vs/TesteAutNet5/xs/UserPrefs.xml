@@ -3,12 +3,12 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="TesteAutNet5/Models/PessoaRecebida.cs">
     <Files>
       <File FileName="TesteAutNet5/Models/User.cs" Line="1" Column="1" />
-      <File FileName="TesteAutNet5/Repositories/UserRepository.cs" Line="16" Column="11" />
-      <File FileName="TesteAutNet5/Controllers/HomeController.cs" Line="8" Column="1" />
-      <File FileName="TesteAutNet5/Controllers/PessoaController.cs" Line="52" Column="36" />
-      <File FileName="TesteAutNet5/Repositories/PessoaRepository.cs" Line="22" Column="28" />
-      <File FileName="TesteAutNet5/Models/Pessoa.cs" Line="22" Column="25" />
-      <File FileName="TesteAutNet5/Models/PessoaRecebida.cs" Line="39" Column="1" />
+      <File FileName="TesteAutNet5/Repositories/UserRepository.cs" />
+      <File FileName="TesteAutNet5/Controllers/HomeController.cs" />
+      <File FileName="TesteAutNet5/Controllers/PessoaController.cs" />
+      <File FileName="TesteAutNet5/Repositories/PessoaRepository.cs" />
+      <File FileName="TesteAutNet5/Models/Pessoa.cs" />
+      <File FileName="TesteAutNet5/Models/PessoaRecebida.cs" Line="15" Column="47" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

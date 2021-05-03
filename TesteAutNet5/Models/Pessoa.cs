@@ -9,6 +9,7 @@ namespace TesteAutNet5.Models
 {
     public class Pessoa
     {
+        [Required(ErrorMessage = "Campo nome e obrigatorio")]
         public int Id { get; set; }
 
         public String Nome { get; set; }

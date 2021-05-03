@@ -86,10 +86,10 @@ namespace TesteAutNet5.Controllers
 
 
         //  Atualizar uma pessoa pelo id da pessoa passada.
-        [HttpPut]
+        [HttpPost]
         [Route("Atualizar")]
         [Authorize(Roles = "Gerente,Funcionario")]
-        public async Task<ActionResult<Pessoa>> Put(
+        public async Task<ActionResult<Pessoa>> Post(
             [FromBody] Pessoa model)
         {
 
